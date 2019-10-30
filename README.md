@@ -11,7 +11,7 @@
  ![Preview](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-LigaBBVA-PHP/master/demo/jornada-anterior.png)
  
  
-  Jornada anterior:
+  Clasificación liga Bbva:
  
  ![Preview](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-LigaBBVA-PHP/master/demo/clasificacion.png)
  
