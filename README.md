@@ -3,10 +3,16 @@
  
  Espero que os sirva de utilidad.
  
+ No olvides conseguir tu tojen para que te funcione entrando en - https://www.football-data.org/
  Sergio GR.
  
  Jornada anterior:
  
  ![Preview](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-LigaBBVA-PHP/master/demo/jornada-anterior.png)
+ 
+ 
+  Jornada anterior:
+ 
+ ![Preview](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-LigaBBVA-PHP/master/demo/clasificacion.png)
  
  
